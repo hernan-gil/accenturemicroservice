@@ -1,5 +1,5 @@
 # accenturemicroservice
 Prueba Java Accenture
 Microservicio 
-La carpeta prubeas contiene pantallazos de las pruebas hechas.
+La carpeta pruebas contiene pantallazos de las pruebas hechas.
 
